@@ -1,4 +1,5 @@
-# guess_the_number.py: Python program for the guessing game
+# guess_the_number_0.0.1.py: Python program for the guessing game
+# First version of Guess the Number by @sandeept252
 
 # Generate a random integer between a range of numbers
 from random import randint
